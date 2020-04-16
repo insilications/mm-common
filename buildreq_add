@@ -1,0 +1,10 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+libstdc++-dev
+atkmm-dev
+buildreq-gnome
+gtk+-dev
+pangomm-dev
+gtkmm2-dev
+gtkmm3-dev
+python3
