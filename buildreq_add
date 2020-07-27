@@ -8,3 +8,5 @@ pangomm-dev
 gtkmm2-dev
 gtkmm3-dev
 python3
+findutils
+
